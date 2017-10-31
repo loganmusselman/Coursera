@@ -13,10 +13,7 @@ import 'hammerjs';
     AppComponent
   ],
   imports: [
-    BrowserModule,
-	BrowserAnimationsModule,
-	MaterialModule,
-	FlexLayoutModule
+    BrowserModule
   ],
   providers: [],
   bootstrap: [AppComponent]
